@@ -1,0 +1,36 @@
+body{
+    background-color: #fee383c3; 
+ font: 1.5em sans-serif;
+font-size: 30px;
+ color: black;
+ text-align: center;
+ justify-content:center ;
+ border: 15rem solid #edbc0c8e  ;
+
+
+}
+.shadow{
+    box-shadow: 10px 10px 5px  rgba(7, 10, 11, 0.92);
+}
+
+.Image{
+    padding: 50px;
+    
+}
+.header{
+ padding: 40px;
+    text-align:  left;
+    
+}
+
+.section{
+    text-align: left;
+    padding: 40px;
+
+
+}
+.color{
+    background-color: rgba(153, 205, 50, 0.661);
+    /* border-style: solid; */
+    width: 150px;
+}
